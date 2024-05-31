@@ -1,4 +1,8 @@
+añadimos esta linea para verla en Git GUI
 hola soy una prueba
 
-añadiremos estas dos lineas de forma remota desde github 
+añadiremos estas 2 lineas de forma remota desde github 
 y luego lo actualizacermos a local con Git bash
+
+tercer cambio para usar la interfaz grafica Git Gui& usamos el comando 
+"git gui&" en la terminal de Git Bash y abre una nueva ventana
