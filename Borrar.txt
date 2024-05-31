@@ -1,1 +1,4 @@
 hola soy una prueba
+
+añadiremos estas dos lineas de forma remota desde github 
+y luego lo actualizacermos a local con Git bash
